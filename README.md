@@ -26,7 +26,7 @@ BabelDeobfuscator supports a few features :
 #### <i class="icon-file"></i> Note
 
 > - To clean the ControlFlow please use [**SAE in-built deobfuscator**][3]
-
+> - I only have the demo version, so if you can share me some app protected by the full version I can improve it
 
 ----------
 
