@@ -1,0 +1,12 @@
+C:\Users\samjam53\Documents\GitHub\BabelDeobfuscator\BabelDeobfuscator\bin\Debug\BabelDeobfuscator.exe
+C:\Users\samjam53\Documents\GitHub\BabelDeobfuscator\BabelDeobfuscator\bin\Debug\BabelDeobfuscator.pdb
+C:\Users\samjam53\Documents\GitHub\BabelDeobfuscator\BabelDeobfuscator\bin\Debug\dnlib.dll
+C:\Users\samjam53\Documents\GitHub\BabelDeobfuscator\BabelDeobfuscator\bin\Debug\dnlib.pdb
+C:\Users\samjam53\Documents\GitHub\BabelDeobfuscator\BabelDeobfuscator\bin\Debug\dnlib.xml
+C:\Users\samjam53\Documents\GitHub\BabelDeobfuscator\BabelDeobfuscator\obj\Debug\BabelDeobfuscator.csprojResolveAssemblyReference.cache
+C:\Users\samjam53\Documents\GitHub\BabelDeobfuscator\BabelDeobfuscator\obj\Debug\BabelDeobfuscator.Form1.resources
+C:\Users\samjam53\Documents\GitHub\BabelDeobfuscator\BabelDeobfuscator\obj\Debug\BabelDeobfuscator.Properties.Resources.resources
+C:\Users\samjam53\Documents\GitHub\BabelDeobfuscator\BabelDeobfuscator\obj\Debug\BabelDeobfuscator.csproj.GenerateResource.Cache
+C:\Users\samjam53\Documents\GitHub\BabelDeobfuscator\BabelDeobfuscator\obj\Debug\BabelDeobfuscator.exe
+C:\Users\samjam53\Documents\GitHub\BabelDeobfuscator\BabelDeobfuscator\obj\Debug\BabelDeobfuscator.pdb
+C:\Users\samjam53\Documents\GitHub\BabelDeobfuscator\BabelDeobfuscator\bin\Debug\BabelDeobfuscator.exe.config
